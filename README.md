@@ -1,3 +1,3 @@
 # calculadora
 
-## Ezemplo de uso: me breve
+## Exemplo de uso: me breve
